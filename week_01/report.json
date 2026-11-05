@@ -1,0 +1,10 @@
+{
+  "total_revenue": 93.9,
+  "revenue_by_product": {
+    "apple": 49.5,
+    "banana": 6.4,
+    "orange": 38.0
+  },
+  "best_seller": "apple",
+  "rows_count": 7
+}
