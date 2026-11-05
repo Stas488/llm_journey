@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Alex",
+    "age": 27,
+    "grade": 85
+  },
+  {
+    "name": "Bob",
+    "age": 22,
+    "grade": 92
+  },
+  {
+    "name": "Cara",
+    "age": 25,
+    "grade": 78
+  },
+  {
+    "name": "Dan",
+    "age": 24,
+    "grade": 88
+  }
+]
